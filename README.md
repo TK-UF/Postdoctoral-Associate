@@ -4,11 +4,14 @@ Job posting for the University of Florida - Department of Pediatrics
 Title: Postdoctoral Associate- McIntosh Lab
 Company: University of Florida
 
-URL: http://explore.jobs.ufl.edu/cw/en-us/job/505376/postdoctoral-associate-pediatrics-mcintosh-lab
+Appy Here: http://explore.jobs.ufl.edu/cw/en-us/job/505376/postdoctoral-associate-pediatrics-mcintosh-lab
 
 Reference: Requisition # 505376
+
 Location: Gainesville, FL
+
 Contract: Temporary - Full Time
+
 Created: !!timestamp '2017-12-06' 
 
 # Overview
