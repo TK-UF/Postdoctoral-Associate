@@ -5,10 +5,6 @@ Title: Postdoctoral Associate- McIntosh Lab
 
 Company: University of Florida
 
-Apply Here: http://explore.jobs.ufl.edu/cw/en-us/job/505376/postdoctoral-associate-pediatrics-mcintosh-lab
-
-Reference: Requisition # 505376
-
 Location: Gainesville, FL
 
 Contract: Temporary - Full Time
@@ -50,6 +46,8 @@ Experience in Virology and/or OMICS (genomics, transcriptomics, or proteomics), 
 
 # SPECIAL INSTRUCTIONS TO APPLICANTS
 
-Please apply via Careers At UF. See link above. 
+Please apply via Careers At UF. Reference: Requisition # 505376.
+
+Apply Here: http://explore.jobs.ufl.edu/cw/en-us/job/505376/postdoctoral-associate-pediatrics-mcintosh-lab
 
 This position will be closing on January 18, 2019 at 11:55pm (Eastern Standard Time).
