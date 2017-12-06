@@ -22,7 +22,7 @@ Research emphasis is on detection and characterization of potential pathogens an
 
 Specialized expertise is sought in three or more of the following: Molecular Biology, LINUX/UNIX and Python scripting, MySQL, metagenomics, transcriptomics, epigenetics, statistics, and/or SNP analysis of human genomes in the context of cancer. 
 
-Duties include:
+# Duties include:
 -	Designing and performing experiments using a variety of techniques including: conventional and realtime PCR/RT-PCR, immunoprecipitation, chromatin immunoprecipitation, Western blotting, FACS, Sanger sequencing, next-generation sequencing, and various Capture-Seq approaches, CRISPR-Cas editing of genomes, virus isolation of suspect human, animal and insect pathogens, transfection and transduction of cells, transformation of cells to establish new cell lines, reverse genetics of viruses, cloning and protein purification.
 
 -	Maintaining proper lab records.
@@ -38,4 +38,13 @@ Duties include:
 
 The laboratory (BSL2) is situated in an academic research building at the main campus in Gainesville surrounded by many excellent labs and core facilities (including BSL3 and insect facilities) with tremendous training opportunities for cutting-edge techniques. 
 
-Please apply directly via Careers At UF (See link above). 
+# Minimum requirements:
+
+Ph.D. in Biological Sciences, research experience in Molecular Biology, proficiency in spoken and written English, and proficiency in UNIX and Python programing.
+
+# Preferred Qualifications:
+
+Experience in Virology and/or OMICS (genomics, transcriptomics, or proteomics), and at least two publications in English Scientific Journals
+
+
+Please apply via Careers At UF. See link above. 
