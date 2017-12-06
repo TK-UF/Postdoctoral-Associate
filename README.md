@@ -51,3 +51,13 @@ Please apply via Careers At UF. Reference: Requisition # 505376.
 Apply Here: http://explore.jobs.ufl.edu/cw/en-us/job/505376/postdoctoral-associate-pediatrics-mcintosh-lab
 
 This position will be closing on January 18, 2019 at 11:55pm (Eastern Standard Time).
+
+Tags:
+ - Biomedical Research
+ - Medical and Health Sciences 
+ - Health Profession
+ - Research
+ - Scientific
+ - Grants
+ - Bioinformatics
+ - Software Development 
