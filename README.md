@@ -1,4 +1,4 @@
-# Postdoctoral-Associate
+# POSTDOCTORAL-ASSOCIATE
 Job posting for the University of Florida - Department of Pediatrics
 
 Title: Postdoctoral Associate- McIntosh Lab
