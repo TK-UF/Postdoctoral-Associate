@@ -5,7 +5,7 @@ Title: Postdoctoral Associate- McIntosh Lab
 
 Company: University of Florida
 
-Appy Here: http://explore.jobs.ufl.edu/cw/en-us/job/505376/postdoctoral-associate-pediatrics-mcintosh-lab
+Apply Here: http://explore.jobs.ufl.edu/cw/en-us/job/505376/postdoctoral-associate-pediatrics-mcintosh-lab
 
 Reference: Requisition # 505376
 
