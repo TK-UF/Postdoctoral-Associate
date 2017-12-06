@@ -52,12 +52,3 @@ Apply Here: http://explore.jobs.ufl.edu/cw/en-us/job/505376/postdoctoral-associa
 
 This position will be closing on January 18, 2019 at 11:55pm (Eastern Standard Time).
 
-Tags:
- - Biomedical Research
- - Medical and Health Sciences 
- - Health Profession
- - Research
- - Scientific
- - Grants
- - Bioinformatics
- - Software Development 
