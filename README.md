@@ -9,7 +9,6 @@ Location: Gainesville, FL
 
 Contract: Temporary - Full Time
 
-Created: !!timestamp '2017-12-06' 
 
 # OVERVIEW:
 The McIntosh Research Laboratory at the University of Florida’s Child Health Research Institute, seeks a highly motivated Postdoctoral Research Associate to join a team exploring the roles of novel infectious agents in diseases of unknown etiology or emerging epidemiology. 
@@ -50,5 +49,5 @@ Please apply via Careers At UF. Reference: Requisition # 505376.
 
 Apply Here: http://explore.jobs.ufl.edu/cw/en-us/job/505376/postdoctoral-associate-pediatrics-mcintosh-lab
 
-This position will be closing on January 19, 2018 at 11:55pm (Eastern Standard Time).
+This position will be closing on February 19, 2018 at 11:55pm (Eastern Standard Time).
 
